@@ -32,4 +32,6 @@ python3 storage.py
 6. run server (for streamlit)
 ```
 sh run_server.sh
+
+7.
 ```
